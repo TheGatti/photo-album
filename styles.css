@@ -1,0 +1,20 @@
+.header {
+  height: 60px;
+  width: 100%;
+  color: silver;
+  text-align: center;
+  font-size: 2em;
+  background-color: green
+}
+.col-md-4 {
+  overflow: hidden;
+  height: 210px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+img {
+  width: 100%;
+}
+.hidden {
+  display: none;
+}

@@ -1,0 +1,67 @@
+var albums = [{
+    id: 'one',
+    title: 'Album One',
+    cover: 'images/album_pic1.jpeg',
+    pictures: [{
+        photo: 'http://www.placecage.com/200/300'
+    }, {
+        photo: 'http://www.placecage.com/200/200'
+    }, {
+        photo: 'http://www.placecage.com/200/500'
+    }]
+}, {
+    id: 'two',
+    title: 'Album Two',
+    cover: 'images/album_pic2.jpeg',
+    pictures: [{
+        photo: 'http://www.placecage.com/c/400/200/'
+    }, {
+        photo: 'http://www.placecage.com/c/400/200/'
+    }, {
+        photo: 'http://www.placecage.com/c/400/200/'
+    }]
+}, {
+    id: 'three',
+    title: 'Album Three',
+    cover: 'images/album_pic3.jpeg',
+    pictures: [{
+        photo: 'http://lorempixel.com/300/200/'
+    }, {
+        photo: 'http://lorempixel.com/100/200/'
+    }, {
+        photo: 'http://lorempixel.com/500/200/'
+    }]
+}, {
+    id: 'four',
+    title: 'Album Four',
+    cover: 'images/album_pic4.jpeg',
+    pictures: [{
+        photo: 'http://fillmurray.com/200/300'
+    }, {
+        photo: 'http://fillmurray.com/200/400'
+    }, {
+        photo: 'http://fillmurray.com/200/100'
+    }]
+}, {
+    id: 'five',
+    title: 'Album Five',
+    cover: 'images/album_pic5.jpeg',
+    pictures: [{
+        photo: 'http://stevensegallery.com/200/300'
+    }, {
+        photo: 'http://stevensegallery.com/100/300'
+    }, {
+        photo: 'http://stevensegallery.com/400/300'
+    }]
+}, {
+    id: 'six',
+    title: 'Album Six',
+    cover: 'images/album_pic6.jpeg',
+    pictures: [{
+        photo: 'http://lorempixel.com/400/400/'
+    }, {
+        photo: 'http://lorempixel.com/400/100/'
+    }, {
+        photo: 'http://lorempixel.com/400/300/'
+    }]
+}]
